@@ -14,7 +14,8 @@
         "angular-resource.js"
       ],
       "files": [
-        "angular-resource.min.js"
+        "angular-resource.min.js",
+        "angular-resource.min.js.map"
       ]
     }
   }
